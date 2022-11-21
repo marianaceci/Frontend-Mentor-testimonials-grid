@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-with-css-grid-udCX7JVTrL](https://www.frontendmentor.io/solutions/responsive-page-with-css-grid-udCX7JVTrL)
+- Live Site URL: [https://frontend-mentor-testimonials-grid-indol.vercel.app/](https://frontend-mentor-testimonials-grid-indol.vercel.app/)
 
 ## My process
 
